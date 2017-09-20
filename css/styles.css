@@ -1,0 +1,16 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 70px;
+    background-color: maroon;
+    background-image: url(../img/cubes.png);
+    /* background pattern from https://www.transparenttextures.com/ */
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+}
