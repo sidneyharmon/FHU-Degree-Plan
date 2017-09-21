@@ -1,5 +1,6 @@
 body {
     font-family: 'Montserrat', sans-serif;
+    font-size: 14.5px;
     padding-top: 70px;
     background-color: maroon;
     background-image: url(../img/cubes.png);
@@ -29,4 +30,16 @@ li{
     top:15px;
     left: 80px;
     font-size:.8em;
+}
+
+.panel-heading{
+    border:none;
+}
+
+.panel, .panel-default{
+    border-radius: 2px;
+}
+.form-check-label{
+    display:block;
+    margin-left:10px;
 }
